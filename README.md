@@ -7,7 +7,7 @@
 
 This is a Python application which processes a wordlist or individual words and appends numerical values in various formats at the end of the provided word/words.
 
-The output can be consisted of the below formats:
+The output is consisted of the below formats:
 
 >Ordered numbers: nick1, nick2, nick3, nick99, nick100 etc.\
 >Year: nick1998, nick1999, nick2000 etc.\
@@ -15,13 +15,13 @@ The output can be consisted of the below formats:
 >Date + Year: nick01011998, 09081999 etc.\
 >Symbol + Number: nick_7, nick_13, nick_21, nick-7, nick-13 etc.
 
-The application can be used in cybersecurity projects given the fact that a word+number format(e.g. a random number, a year, a date) is a commonly used password combination.
+The application can be used in cybersecurity projects given the fact that a word+number format(e.g. a name with a random number, a year or a date) is a commonly used password combination.
 
 
 
 ## Usage
 
-The wordlist should be imported in txt format and each word should be presented on a seperate line.
+If the wordlist option is chosen, the list should be imported in txt format and each word should be presented on a seperate line.
 
 
 
