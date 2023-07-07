@@ -15,7 +15,7 @@ The output is consisted of the below formats:
 >Date + Year: nick01011998, 09081999 etc.\
 >Symbol + Number: nick_7, nick_13, nick_21, nick-7, nick-13 etc.
 
-The application can be used in cybersecurity projects given the fact that a word+number format(e.g. a name with a random number, a year or a date) is a commonly used password combination.
+The application can be used in cybersecurity projects given the fact that a word+number format (e.g. a name with a random number, a year or a date) is a commonly used password combination.
 
 
 
