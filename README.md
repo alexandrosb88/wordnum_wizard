@@ -5,7 +5,7 @@
 
 ## Description
 
-This is a Python application which processes a wordlist or individual words and appends numerical values in various formats at the end of the provided word/words.
+This is a Python application which processes wordlists or individual words and appends numerical values in various formats at the end of the provided word/words.
 
 The output is consisted of the below formats:
 
